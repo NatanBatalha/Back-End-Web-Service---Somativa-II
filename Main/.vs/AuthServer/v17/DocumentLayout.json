@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\source\\repos\\AuthServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C535C4D-3B9C-4181-BAE6-9122BD5EA77C}|ApiBenchmark\\ApiBenchmark.csproj|c:\\users\\gusta\\source\\repos\\authserver\\apibenchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C535C4D-3B9C-4181-BAE6-9122BD5EA77C}|ApiBenchmark\\ApiBenchmark.csproj|solutionrelative:apibenchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C535C4D-3B9C-4181-BAE6-9122BD5EA77C}|ApiBenchmark\\ApiBenchmark.csproj|c:\\users\\gusta\\source\\repos\\authserver\\apibenchmark\\apibenchmark.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C535C4D-3B9C-4181-BAE6-9122BD5EA77C}|ApiBenchmark\\ApiBenchmark.csproj|solutionrelative:apibenchmark\\apibenchmark.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\exception\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\exception\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\requests\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\requests\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\responses\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\responses\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\responses\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\responses\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\security\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\security\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\security\\jwttokenfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\security\\jwttokenfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\security\\securitysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\security\\securitysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\security\\secutiryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\security\\secutiryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\security\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\security\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\authservercontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\authservercontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\userbootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\userbootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\users\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\users\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|c:\\users\\gusta\\source\\repos\\authserver\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701C6DCF-26FD-4D9F-8A86-E2B41CE546CB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\ApiBenchmark\\Program.cs",
+              "RelativeDocumentMoniker": "ApiBenchmark\\Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\ApiBenchmark\\Program.cs",
+              "RelativeToolTip": "ApiBenchmark\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:40:13.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiBenchmark.csproj",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\ApiBenchmark\\ApiBenchmark.csproj",
+              "RelativeDocumentMoniker": "ApiBenchmark\\ApiBenchmark.csproj",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\ApiBenchmark\\ApiBenchmark.csproj",
+              "RelativeToolTip": "ApiBenchmark\\ApiBenchmark.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T01:40:01.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\exception\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\exception\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\exception\\BadRequestException.cs",
+              "RelativeToolTip": "AuthServer\\Users\\exception\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:20:10.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\requests\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\requests\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\requests\\LoginRequest.cs",
+              "RelativeToolTip": "AuthServer\\Users\\requests\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:20:08.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\requests\\UserRequest.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\requests\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\requests\\UserRequest.cs",
+              "RelativeToolTip": "AuthServer\\Users\\requests\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:20:03.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\responses\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\responses\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\responses\\LoginResponse.cs",
+              "RelativeToolTip": "AuthServer\\Users\\responses\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:20:00.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\responses\\UserResponse.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\responses\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\responses\\UserResponse.cs",
+              "RelativeToolTip": "AuthServer\\Users\\responses\\UserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:19:51.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\security\\Jwt.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\security\\Jwt.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\security\\Jwt.cs",
+              "RelativeToolTip": "AuthServer\\Users\\security\\Jwt.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:19:40.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtTokenFilter.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\security\\JwtTokenFilter.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\security\\JwtTokenFilter.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\security\\JwtTokenFilter.cs",
+              "RelativeToolTip": "AuthServer\\Users\\security\\JwtTokenFilter.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:19:26.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecuritySettings.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\security\\SecuritySettings.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\security\\SecuritySettings.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\security\\SecuritySettings.cs",
+              "RelativeToolTip": "AuthServer\\Users\\security\\SecuritySettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:19:09.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SecutiryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\security\\SecutiryConfig.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\security\\SecutiryConfig.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\security\\SecutiryConfig.cs",
+              "RelativeToolTip": "AuthServer\\Users\\security\\SecutiryConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:18:54.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\security\\UserToken.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\security\\UserToken.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\security\\UserToken.cs",
+              "RelativeToolTip": "AuthServer\\Users\\security\\UserToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:18:47.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\UsersRepository.cs",
+              "RelativeToolTip": "AuthServer\\Users\\UsersRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:05:33.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\UsersController.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\UsersController.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\UsersController.cs",
+              "RelativeToolTip": "AuthServer\\Users\\UsersController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAuwHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:04:51.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserBootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\UserBootstrap.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\UserBootstrap.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\UserBootstrap.cs",
+              "RelativeToolTip": "AuthServer\\Users\\UserBootstrap.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:04:49.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\User.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\User.cs",
+              "RelativeToolTip": "AuthServer\\Users\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:03:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\RoleRepository.cs",
+              "RelativeToolTip": "AuthServer\\Users\\RoleRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:02:15.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\Role.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\Role.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\Role.cs",
+              "RelativeToolTip": "AuthServer\\Users\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:59:07.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\UsersService.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\UsersService.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\UsersService.cs",
+              "RelativeToolTip": "AuthServer\\Users\\UsersService.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:56:41.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthServerContext .cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\AuthServerContext .cs",
+              "RelativeDocumentMoniker": "AuthServer\\Users\\AuthServerContext .cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Users\\AuthServerContext .cs",
+              "RelativeToolTip": "AuthServer\\Users\\AuthServerContext .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:31:10.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Program.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\AuthServer\\AuthServer\\Program.cs",
+              "RelativeToolTip": "AuthServer\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:08:12.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
